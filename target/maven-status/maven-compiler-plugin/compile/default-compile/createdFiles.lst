@@ -1,0 +1,6 @@
+fr\montpellier\m2gl\tp_ast\MethodDeclarationVisitor.class
+fr\montpellier\m2gl\tp_ast\Parser.class
+fr\montpellier\m2gl\tp_ast\TypeDeclarationVisitor.class
+fr\montpellier\m2gl\tp_ast\FieldAccessVisitor.class
+fr\montpellier\m2gl\tp_ast\VariableDeclarationFragmentVisitor.class
+fr\montpellier\m2gl\tp_ast\MethodInvocationVisitor.class
